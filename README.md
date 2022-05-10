@@ -23,4 +23,4 @@ Thanks to mapbox for the mapping code and styles.
 Thanks to MBTA for providing an API to get the bus data.
 
 ## License
-eliotmatrva/realTimeBusTracker is licensed under the MIT License
+lcamargop01/realTimeBusTracker is licensed under the MIT License
